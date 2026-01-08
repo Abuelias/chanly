@@ -135,7 +135,7 @@ export const auditLogs = createTable('audit_log', {
 }, (table) => {
   return {
     userIdx: index('audit_log_user_idx').on(table.userId),
-    createdAtIdx: index('audit_log_created_at_idx').on(table.createdAt.desc),
+    createdAtIdx: index('audit_log_created_at_idx').on(table.createdAt),
   };
 });
 
