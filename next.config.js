@@ -4,7 +4,8 @@ const nextConfig = {
     locales: ['en', 'ar'],
     defaultLocale: 'en',
   },
-  // experimental: { appDir: true }, // احذف هذا السطر
+  output: 'standalone', // مهم لتصدير static
+  trailingSlash: true,  // يسهل التعامل مع export paths
 }
 
 module.exports = nextConfig
