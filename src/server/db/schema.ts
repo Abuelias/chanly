@@ -11,7 +11,7 @@ import {
   uuid,
   varchar,
   inet,
-  array,
+  PgArray,
 } from 'drizzle-orm/pg-core';
 
 export const createTable = pgTableCreator((name) => `chanly_${name}`);
