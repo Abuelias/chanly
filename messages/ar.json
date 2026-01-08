@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "channels": "قنوات",
+    "categories": "تصنيفات",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "dashboard": "لوحة التحكم",
+    "logout": "تسجيل الخروج",
+    "admin": "الإدارة"
+  },
+  "hero": {
+    "headline": "اكتشف مجتمعك المفضل على واتساب.. بذكاء.",
+    "subheadline": "المنصة الأولى التي تضمن لك روابط فعالة 100%، وتوصيات مدعومة بالذكاء الاصطناعي.",
+    "searchPlaceholder": "عن ماذا تبحث؟ (مثال: وظائف، عملات رقمية، رياضة)...",
+    "searchButton": "بحث",
+    "popularSearches": "عمليات البحث الشائعة:"
+  },
+  "channels": {
+    "title": "القنوات المميزة",
+    "viewChannel": "عرض القناة",
+    "joinChannel": "انضم الآن",
+    "members": "عضو",
+    "verified": "موثقة",
+    "brokenLink": "رابط غير فعال",
+    "share": "مشاركة",
+    "report": "إبلاغ",
+    "claim": "مطالبة",
+    "categories": "التصنيفات",
+    "allCategories": "جميع التصنيفات",
+    "noChannels": "لم يتم العثور على قنوات",
+    "loading": "جاري التحميل..."
+  },
+  "claim": {
+    "modalTitle": "هل تملك هذه القناة؟ جمهورك يبحث عنك!",
+    "modalBody": "وثق قناتك الآن واحصل على لوحة تحليلات خاصة وميزات نمو حصرية مجاناً.",
+    "claimButton": "مطالبة بالقناة",
+    "verificationTitle": "التحقق من الملكية",
+    "verificationInstructions": "ضع الكود التالي في وصف قناتك على واتساب لمدة 5 دقائق:",
+    "verificationCode": "كود التحقق:",
+    "verifyButton": "تحقق الآن",
+    "cancelButton": "إلغاء",
+    "successTitle": "تم التحقق بنجاح!",
+    "successMessage": "مبروك! أصبحت الآن المالك الرسمي لهذه القناة.",
+    "errorTitle": "فشل التحقق",
+    "errorMessage": "لم نتمكن من العثور على كود التحقق في وصف القناة. يرجى المحاولة مرة أخرى.",
+    "expiredMessage": "انتهت صلاحية كود التحقق. يرجى إنشاء كود جديد."
+  },
+  "errors": {
+    "brokenLink": "عذراً، نظام الفحص الذكي اكتشف أن هذا الرابط غير فعال مؤخراً. تم إبلاغ المشرف.",
+    "pageNotFound": "الصفحة غير موجودة",
+    "serverError": "خطأ في الخادم",
+    "unauthorized": "غير مصرح",
+    "forbidden": "ممنوع الوصول"
+  },
+  "footer": {
+    "description": "Chanly - منصة اكتشاف قنوات واتساب الذكية",
+    "quickLinks": "روابط سريعة",
+    "legal": "القانونية",
+    "privacy": "الخصوصية",
+    "terms": "الشروط",
+    "contact": "اتصل بنا",
+    "allRightsReserved": "جميع الحقوق محفوظة",
+    "madeWith": "صنع بـ ❤️ في اليمن"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "stats": {
+      "totalChannels": "إجمالي القنوات",
+      "totalViews": "إجمالي المشاهدات",
+      "totalClicks": "إجمالي النقرات",
+      "growthRate": "معدل النمو"
+    },
+    "recentChannels": "أحدث القنوات",
+    "recentActivity": "النشاط الأخير",
+    "manageChannels": "إدارة القنوات",
+    "addChannel": "إضافة قناة جديدة",
+    "editChannel": "تعديل القناة",
+    "deleteChannel": "حذف القناة"
+  },
+  "auth": {
+    "loginTitle": "تسجيل الدخول",
+    "registerTitle": "إنشاء حساب جديد",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "phoneNumber": "رقم الهاتف",
+    "submit": "إرسال",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "forgotPassword": "نسيت كلمة المرور؟"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "subject": "الموضوع",
+    "message": "الرسالة",
+    "send": "إرسال الرسالة",
+    "success": "تم إرسال رسالتك بنجاح!",
+    "info": "نحن هنا للمساعدة. تواصل معنا في أي وقت!"
+  },
+  "about": {
+    "title": "من نحن",
+    "description": "Chanly هي منصة متطورة لاكتشاف قنوات واتساب، مبنية بتقنيات حديثة ومصممة لتقدم أفضل تجربة للمستخدمين وأصحاب القنوات.",
+    "features": {
+      "title": "مميزاتنا",
+      "activeLinks": "روابط فعالة 100%",
+      "aiRecommendations": "توصيات ذكية بالذكاء الاصطناعي",
+      "verification": "نظام توثيق متقدم",
+      "analytics": "تحليلات تفصيلية",
+      "instantSearch": "بحث فوري سريع"
+    }
+  }
+}

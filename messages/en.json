@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "home": "Home",
+    "channels": "Channels",
+    "categories": "Categories",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "admin": "Admin"
+  },
+  "hero": {
+    "headline": "Discover your favorite WhatsApp communities... Intelligently.",
+    "subheadline": "The first platform guaranteeing 100% active links, with AI-powered recommendations.",
+    "searchPlaceholder": "What are you looking for? (e.g., Jobs, Crypto, Sports)...",
+    "searchButton": "Search",
+    "popularSearches": "Popular searches:"
+  },
+  "channels": {
+    "title": "Featured Channels",
+    "viewChannel": "View Channel",
+    "joinChannel": "Join Now",
+    "members": "member",
+    "verified": "Verified",
+    "brokenLink": "Broken Link",
+    "share": "Share",
+    "report": "Report",
+    "claim": "Claim",
+    "categories": "Categories",
+    "allCategories": "All Categories",
+    "noChannels": "No channels found",
+    "loading": "Loading..."
+  },
+  "claim": {
+    "modalTitle": "Do you own this channel? Your audience is waiting!",
+    "modalBody": "Verify your channel now to unlock exclusive analytics and growth features for free.",
+    "claimButton": "Claim Channel",
+    "verificationTitle": "Ownership Verification",
+    "verificationInstructions": "Place the following code in your WhatsApp channel description for 5 minutes:",
+    "verificationCode": "Verification Code:",
+    "verifyButton": "Verify Now",
+    "cancelButton": "Cancel",
+    "successTitle": "Verification Successful!",
+    "successMessage": "Congratulations! You are now the official owner of this channel.",
+    "errorTitle": "Verification Failed",
+    "errorMessage": "We couldn't find the verification code in your channel description. Please try again.",
+    "expiredMessage": "Verification code has expired. Please generate a new one."
+  },
+  "errors": {
+    "brokenLink": "Sorry, our Auto-Health Check detected this link is inactive. Admin has been notified.",
+    "pageNotFound": "Page Not Found",
+    "serverError": "Server Error",
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden"
+  },
+  "footer": {
+    "description": "Chanly - The Intelligent WhatsApp Channels Discovery Platform",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "allRightsReserved": "All Rights Reserved",
+    "madeWith": "Made with ❤️ in Yemen"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "stats": {
+      "totalChannels": "Total Channels",
+      "totalViews": "Total Views",
+      "totalClicks": "Total Clicks",
+      "growthRate": "Growth Rate"
+    },
+    "recentChannels": "Recent Channels",
+    "recentActivity": "Recent Activity",
+    "manageChannels": "Manage Channels",
+    "addChannel": "Add New Channel",
+    "editChannel": "Edit Channel",
+    "deleteChannel": "Delete Channel"
+  },
+  "auth": {
+    "loginTitle": "Login",
+    "registerTitle": "Create New Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "phoneNumber": "Phone Number",
+    "submit": "Submit",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "forgotPassword": "Forgot Password?"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Your message has been sent successfully!",
+    "info": "We're here to help. Get in touch with us anytime!"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Chanly is a sophisticated platform for discovering WhatsApp channels, built with modern technologies and designed to provide the best experience for users and channel owners.",
+    "features": {
+      "title": "Our Features",
+      "activeLinks": "100% Active Links",
+      "aiRecommendations": "AI-Powered Recommendations",
+      "verification": "Advanced Verification System",
+      "analytics": "Detailed Analytics",
+      "instantSearch": "Fast Instant Search"
+    }
+  }
+}
