@@ -4,8 +4,7 @@ const nextConfig = {
     locales: ['en', 'ar'],
     defaultLocale: 'en',
   },
-  output: undefined, // أهم خطوة: نتركها SSR/Hybrid
-  // trailingSlash: true, // يمكن حذفه لأنه لا يحتاج للتصدير
+  trailingSlash: true,
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;
