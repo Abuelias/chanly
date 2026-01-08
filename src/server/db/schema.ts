@@ -55,7 +55,7 @@ export const channels = createTable('channel', {
   avatarUrl: varchar('avatar_url', { length: 500 }),
   bannerUrl: varchar('banner_url', { length: 500 }),
   categoryId: uuid('category_id').references(() => categories.id),
-  tags: new PgArray(text('tags')).default([]),
+  tags: jsonb('tags').default([]),
   memberCount: integer('member_count').default(0),
   isActive: boolean('is_active').default(true),
   isVerified: boolean('is_verified').default(false),
