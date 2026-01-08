@@ -71,7 +71,7 @@ export const channels = createTable('channel', {
     categoryIdx: index('channel_category_idx').on(table.categoryId),
     isActiveIdx: index('channel_is_active_idx').on(table.isActive),
     healthStatusIdx: index('channel_health_status_idx').on(table.healthStatus),
-    createdAtIdx: index('channel_created_at_idx').on(table.createdAt, { order: 'desc' }),
+    createdAtIdx: index('channel_created_at_idx').on(table.createdAt),
   };
 });
 
